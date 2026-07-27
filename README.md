@@ -1,128 +1,100 @@
 <h1 align="center">Hi 👋, I'm Sneha Debnath</h1>
 
-<h3 align="center">
+<p align="center">
 Computer Science Engineering Student • AI & Software Engineering Enthusiast
-</h3>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineer+in+the+Making;Java+%7C+Python+%7C+C%2B%2B;Backend+Developer;AI+Enthusiast;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+Developer;Backend+Developer;AI+Enthusiast;Building+Software+That+Matters"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/snehadebnath26">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/snehadebnath/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/snehadebnath_26">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.E. Computer Science Engineering @ MSRIT, Bangalore
-- 🌱 Learning Backend Development, System Design & DevOps
-- 🚀 Building production-ready software projects
-- 🤖 Interested in AI, Software Engineering & Full Stack Development
-- 📫 Reach me at **YOUR_EMAIL**
+- 🎓 Computer Science Engineering Student at **M.S. Ramaiah Institute of Technology (MSRIT), Bangalore**
+- 💡 Passionate about AI, Software Engineering & Backend Development
+- 💻 Interested in building scalable, production-ready applications
+- 🌱 Always learning through projects, coding and open source
+
+📫 **Email:** <a href="mailto:snehadebnath2608@gmail.com">snehadebnath2608@gmail.com</a>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/snehadebnath/)">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/snehadebnath26">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://leetcode.com/snehadebnath_26">
-<img src="https://skillicons.dev/icons?i=leetcode" />
-</a>
-</p>
-
----
-
-## 💻 Languages & Tools
+## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,javascript,react,nodejs,express,mongodb,postgres,docker,git,github,vscode,linux,postman&perline=9"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,react,nodejs,express,mongodb,postgres,docker,git,github,vscode,linux,postman&perline=9"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=snehadebnath26&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=snehadebnath26&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehadebnath26&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=snehadebnath26&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snehadebnath26&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=snehadebnath26&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehadebnath26&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏅 LeetCode
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=snehadebnath26&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://leetcard.jacoblin.cool/snehadebnath_26?theme=dark&font=Poppins"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📑 GitHub Summary
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehadebnath26&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/snehadebnath_26?theme=dark&font=Nunito"/>
-
-</p>
-
----
-
-# 📑 GitHub Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehadebnath26&theme=github_dark)
-
----
-
-# 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=snehadebnath26&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehadebnath26&theme=tokyonight"/>
 
 </p>
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! Hope to connect :) ⭐
+Thanks for stopping by! ⭐
 </h3>
