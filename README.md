@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Sneha Debnath</h1>
 
 <p align="center">
@@ -47,6 +46,5 @@ Computer Science Engineering Student • AI & Software Engineering Enthusiast
 ---
 
 <h3 align="center">
-Thanks for visiting!
+Thanks for visiting! ⭐
 </h3>
-```
